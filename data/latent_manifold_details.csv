@@ -1,0 +1,3 @@
+,true_number_of_clusters,algo,n_clusters_found,n_clusters_db_score_is_min,n_clusters_ch_score_is_max,n_clusters_silhouette_score_is_max,silhouette_score,hopkins_statistic,umap_n_neighbors,umap_min_dist,umap_metric,umap_n_components,trustworthiness,eps,dbscan_min_samples,validity_index,cluster_labels,adj_rand_score
+0,10,DBScan,3,,,,,0.385,15,0.25,euclidean,3,0.9807467956218316,1.048814162804061,7.0,0.8558845601387844,[0 1 1 ... 1 1 1],0.10696529082367325
+1,10,DBScan,13,,,,,0.112,15,0.0,manhattan,2,0.9744498587043378,0.3306985876162403,5.0,0.8567189226874378,[0 1 2 ... 4 3 7],0.8401941671334472
